@@ -45,3 +45,28 @@ header {
 ul{
     margin: 0 0 0 -21px;
 }
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  text-align: left;
+  padding: 8px;
+}
+
+td{
+    text-align: left;
+    padding: 8px;
+    width: 25%;
+}
+
+.riga-colorata {
+  background-color: #D6EEEE;
+}
+
+#riga-blu{
+    background-color: #00b8ff;
+    color: white;
+}

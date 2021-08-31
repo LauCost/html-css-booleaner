@@ -1,26 +1,29 @@
 body{
     margin: 0;
+    
+    font-family: Arial, sans-serif;
 }
 
 header {
-    width: 100%;
-    height: 100px;
     background-image: url(/img/pattern.png);
     background-color: #4cb2ec;
     background-size: 20%;
+    
 }
 
 #vuoto{
-    width: 100%;
     height: 50px;
+    width: 100%;
 }
 
 #logo{
     width: 10%;
+    padding-left: 5px;
 }
 
 .contenitore{
-    margin: 5px;
+    padding-left: 5px;
+    
 }
 
 .info{
@@ -33,4 +36,12 @@ header {
 
 .info-foto{
     font-size: 12px;
+}
+
+.testo{
+    width: 55%;
+}
+
+ul{
+    margin: 0 0 0 -21px;
 }

@@ -59,7 +59,7 @@ th {
 td{
     text-align: left;
     padding: 8px;
-    width: 25%;
+    width: 1%;
 }
 
 .riga-colorata {
@@ -69,4 +69,7 @@ td{
 #riga-blu{
     background-color: #00b8ff;
     color: white;
+}
+span{
+    background-color: yellow;
 }

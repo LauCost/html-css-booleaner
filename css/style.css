@@ -18,3 +18,19 @@ header {
 #logo{
     width: 10%;
 }
+
+.contenitore{
+    margin: 5px;
+}
+
+.info{
+    color: #808080b3;
+    font-size: 18px;
+}
+#autore{
+    color: #00c4ff;
+}
+
+.info-foto{
+    font-size: 12px;
+}
